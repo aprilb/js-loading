@@ -1,0 +1,11 @@
+{
+  "name": "js-loading",
+  "description": "Prevents FOUC until JS loads.",
+  "version": "0.1.1",
+  "scripts": [
+    "dist/js-loading.js"
+  ],
+  "dependencies": {
+    "component/jquery": "*"
+  }
+}
